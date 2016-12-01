@@ -3,7 +3,7 @@
 namespace ExA2040\LaravelSluggable;
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 
-class LaravelSluggableViewCounterServiceProvider extends LaravelServiceProvider {
+class LaravelSluggableServiceProvider extends LaravelServiceProvider {
 
   use \Illuminate\Console\AppNamespaceDetectorTrait;
 
